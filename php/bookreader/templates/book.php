@@ -43,7 +43,7 @@
 		}
 
 		$book["imglist"]=array_values($book["imglist"]);
-		$book["Title"] = "ಶಂಕರ ಕೃಪ";
+		$book["Title"] = "HCK Bhatta";
 		$book["TotalPages"] = count($book["imglist"]);
 		$book["SourceURL"] = "";
 		$result = array_keys($book["imglist"], $page);
