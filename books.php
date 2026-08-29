@@ -8,8 +8,8 @@
 
 				<ul style="list-style-type:disc;" class="gapAboveSmall">
 
-					<li> ಶಿಲ್ಪ ಮತ್ತು ನಾಗರಿಕತೆ </li><br />
-					<li>ನೀರಾವರಿ</li>
+					<li><a href="<?php echo $base_url; ?>php/toc.php?vol=022&part=01"> ಶಿಲ್ಪ ಮತ್ತು ನಾಗರಿಕತೆ </a></li><br />
+					<li><a href="<?php echo $base_url; ?>php/toc.php?vol=030&part=01">ನೀರಾವರಿ</a></li>
 				</ul>
 			
 		</div>

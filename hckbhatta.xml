@@ -356,6 +356,49 @@
 			</entry>
 	    </part>
 	</volume>
+
+	<volume vnum="022">
+		<part pnum="01" title="ಶಿಲ್ಪ ಮತ್ತು ನಾಗರಿಕತೆ" month="" year="" maasa="" samvatsara="">
+			<entry>
+				<title>ಶಿಲ್ಪ ಮತ್ತು ನಾಗರಿಕತೆ</title>
+				<feature>ಪೀಠಿಕೆ</feature>
+				<page>0001-0009</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪ್ರಾಚೀನ ನಾಗರಿಕತೆಗಳಲ್ಲಿ ಶಿಲ್ಪ</title>
+				<feature>ಅಧ್ಯಾಯ ೧</feature>
+				<page>0010-0078</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವಿಜ್ಞಾನದ ಇತಿಹಾಸ</title>
+				<feature>ಅಧ್ಯಾಯ ೨</feature>
+				<page>0079-0180</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶಕ್ತಿ</title>
+				<feature>ಅಧ್ಯಾಯ ೩</feature>
+				<page>0181-0276</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸಾಮಗ್ರಿಗಳು</title>
+				<feature>ಅಧ್ಯಾಯ ೪</feature>
+				<page>0277-0347</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನ್ನ</title>
+				<feature>ಅಧ್ಯಾಯ ೫</feature>
+				<page>0348-0512</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+
+
 	<volume vnum="023">
 		<part pnum="01" title="ನನ್ನ ಉದ್ಯೋಗ ಜೀವನದ ಸೂಕ್ಷ್ಮ ಪರಿಚಯ" month="" year="" maasa="" samvatsara="">
 			<entry>
@@ -606,6 +649,74 @@
 				<title>ರಾಷ್ಟ್ರ ನಿರ್ಮಾಣ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ದಕ್ಷತೆ</title>
 				<feature>ಹತ್ತೊಂಬತ್ತನೆಯ ಅಧ್ಯಾಯ</feature>
 				<page>0165-0180</page>
+				<allauthors />
+			</entry>
+	    </part>
+	</volume>
+	<volume vnum="030">
+		<part pnum="01" title="ನೀರಾವರಿ" month="" year="೧೯೬೪" maasa="" samvatsara="">
+			<entry>
+				<title>ಮುನ್ನುಡಿ</title>
+				<feature></feature>
+				<page>0000d-0000f</page>
+				<allauthors />
+					<author type="1">ಕೆ. ವಿ. ಪುಟ್ಟಪ್ಪ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅರಿಕೆ</title>
+				<feature></feature>
+				<page>0000g-0000g</page>
+				<allauthors>
+					<author type="1">ಎಚ್. ಸಿ. ಕಪಿನೀಪತಿಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ನೀರಾವರಿಯ ಕ್ರಮಗಳು ಮತ್ತು ಪದ್ಧತಿಗಳು</title>
+				<feature>ಅಧ್ಯಾಯ ೧</feature>
+				<page>0001-0044</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ನೀರಿನ ಆಸರೆಗಳು</title>
+				<feature>ಅಧ್ಯಾಯ ೨</feature>
+				<page>0045-0090</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಕೆರೆಗಳು</title>
+				<feature>ಅಧ್ಯಾಯ ೩</feature>
+				<page>0091-0185</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಣೆಕಟ್ಟುಗಳು</title>
+				<feature>ಅಧ್ಯಾಯ ೪</feature>
+				<page>0186-0226</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಕಲ್ಲುಗಾರೆಯ ಕಟ್ಟೆಗಳು</title>
+				<feature>ಅಧ್ಯಾಯ ೫</feature>
+				<page>0227-0259</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ನಾಲೆಗಳು</title>
+				<feature>ಅಧ್ಯ್ಯಾಯ ೬</feature>
+				<page>0260-0276</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ನಾಲೆಗಳ ಮೇಲಿನ ಕಲ್ಲುಗಾರೆಯ ಕೆಲಸಗಳು</title>
+				<feature>ಅಧ್ಯ್ಯಾಯ ೭</feature>
+				<page>0277-0306</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗದ್ದೆಗಳಿಂದ ನೀರನ್ನು ಆಚೆಗೆ ಸಾಗಿಸುವ ಕಟ್ಟಡಗಳು (Drainage Works)</title>
+				<feature>ಅಧ್ಯ್ಯಾಯ ೮</feature>
+				<page>0307-0320</page>
 				<allauthors />
 			</entry>
 	    </part>
