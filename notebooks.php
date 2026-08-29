@@ -23,17 +23,17 @@
 				<li> ಅಭಿಜ್ಞಾನ ಶಕುಂತಲಾ Vol 2 (ಮಂಗಳ) </li> <br />
 				<li> Raghuvamsa Vol 3 (12-19) </li> <br />
 				<li> ಅಭಿಜ್ಞಾನ ಶಕುಂತಲಾ Vol 1 </li> <br />
-				<li> <a href="<?php echo $base_url; ?>php/toc.php?vol=019&part=01">Hosakere Kapineepati Bhattaru </a></li> <br />
-				<li> <a href="<?php echo $base_url; ?>php/toc.php?vol=020&part=01">ಹೆಚ್. ಸಿ. ಕಪಿನೀಪತಿ ಭಟ್ಟರ ಜನ್ಮ ಶತಮಾನೋತ್ಸವ ಸಮಾರಂಭ ನೆನಪಿನ ಸಂಚಿಕೆ</a></li> <br />
-				<li> <a href="<?php echo $base_url; ?>php/toc.php?vol=021&part=01">The veda - A book of hope </a></li> <br />
+				
+				
+				
 				<li> ಶಿಲ್ಪ ಮತ್ತು ನಾಗರಿಕತೆ </li> <br />
-				<li> <a href="<?php echo $base_url; ?>php/toc.php?vol=023&part=01">ನನ್ನ ಉದ್ಯೋಗ ಜೀವನದ ಸೂಕ್ಷ್ಮ ಪರಿಚಯ </a></li> <br />
+				
 				<li> ಕನ್ನಡ ಸಾಹಿತ್ಯ ದೇವರ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ದಾರಿ </li> <br />
 				<li> kannada cyclopaedia 2 </li> <br />
 				<li> kannada cyclopaedia  8 </li> <br />
 				<li> ಪ್ರಾಚೀನ ನಾಗರೀಕತೆಗಳಲ್ಲಿ ಯಂತ್ರ ಶಿಲ್ಪ </li> <br />
 				<li> University of mysore paper </li> <br />
-				<li> <a href="<?php echo $base_url; ?>php/toc.php?vol=029&part=01">ನನ್ನ ಉದ್ಯೋಗ ಜೀವನದ ಚರಿತ್ರೆ </a></li> <br />
+				
 				<li> ನೀರಾವರಿ </li> <br />
 				<li> ಜೀವನ ಪತ್ರಿಕೆ </li> <br />
 				<li> Radio Talks </li> <br />
