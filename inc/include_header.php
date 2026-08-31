@@ -49,6 +49,9 @@
 			<li class="nav-item">
 			  <a class="nav-link" aria-current="page" href="<?php echo $base_url; ?>notebooks.php">Note Books</a>
 			</li>
+			<li class="nav-item">
+			  <a class="nav-link" aria-current="page" href="<?php echo $base_url; ?>#">Gallery</a>
+			</li>
 			<!-- <li class="nav-item">
 			  <a class="nav-link" href="#">ಒಳನೋಟ</a>
 			</li> -->
