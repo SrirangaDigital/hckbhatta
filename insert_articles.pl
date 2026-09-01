@@ -69,7 +69,7 @@ my $sth11r = $dbh->prepare("
         authorname varchar(1000),
         featid varchar(10),
         page varchar(50),
-        volume varchar(3),
+        volume varchar(10),
         part varchar(100),
         year varchar(10),
         month varchar(10),

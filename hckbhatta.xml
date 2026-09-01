@@ -659,7 +659,7 @@
 				<title>ಮುನ್ನುಡಿ</title>
 				<feature></feature>
 				<page>0000d-0000f</page>
-				<allauthors />
+				<allauthors>
 					<author type="1">ಕೆ. ವಿ. ಪುಟ್ಟಪ್ಪ</author>
 				</allauthors>
 			</entry>
@@ -720,6 +720,646 @@
 				<allauthors />
 			</entry>
 	    </part>
+	</volume>
+	<volume vnum="112">
+		<part pnum="01" title="ಸ್ತೋತ್ರ" month="11" year="1964" maasa="" samvatsara="">
+	       <entry>
+				<title>ಗಣೇಶ ಸ್ತೋತ್ರ</title>
+				<feature></feature>
+				<page>0010-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗಣೇಶ ಸ್ತವ</title>
+				<feature></feature>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸಂಕಷ್ಟ ನಾಶನಂ ಗಣೇಶ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0013-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವೇದಪಾದ ಗಣೇಶ ಸ್ತವ</title>
+				<feature></feature>
+				<page>0014-0014</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗಣೇಶ ಸ್ತುತಿಗಳು</title>
+				<feature></feature>
+				<page>0015-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪ್ರಾತಃ ಸ್ಮರಣಂ</title>
+				<feature></feature>
+				<page>0017-0017</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶಿವ ಪ್ರಾತಃ ಸ್ಮರಣಂ</title>
+				<feature></feature>
+				<page>0018-0018</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪಂಚಾಯತನ ಪ್ರಾತಃ ಸ್ಮರಣ ಸ್ತೋತ್ರ</title>
+				<feature></feature>
+				<page>0019-0020</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ದೇವೀ ಪಂಚರತ್ನಂ</title>
+				<feature>0020-0021</feature>
+				<page></page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭಗವತ್ಪ್ರಾತಃ ಸ್ಮರಣ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0022-0022</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀರಾಮ ಪ್ರಾತಃ ಸ್ಮರಣ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0023-0024</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸುಪ್ರಭಾತ ಸ್ತೋತ್ರಗಳು</title>
+				<feature></feature>
+				<page>0025-0026</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭಾರತ ಸಾವಿತ್ರೀ</title>
+				<feature></feature>
+				<page>0027-0028</page>
+				<allauthors>
+					<author type="1" sal="">ವೇದವ್ಯಾಸರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪಂಚಾಯತನ ಧ್ಯಾನ ಶ್ಲೋಕಾಃ</title>
+				<feature></feature>
+				<page>0029-0030</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸುಪ್ರಭಾತ ಸ್ತೋತ್ರಗಳು</title>
+				<feature></feature>
+				<page>0031-0033</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವಂದೇ ಮಾತರಂ</title>
+				<feature></feature>
+				<page>0034-0034</page>
+				<allauthors>
+					<author type="1" sal="">ಬಂಕಿಂಚಂದ್ರ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಜನಗಣಮನ</title>
+				<feature></feature>
+				<page>0034-0034</page>
+				<allauthors>
+					<author type="1" sal="">ರವೀಂದ್ರನಾಥಠಾಕೂರ್</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸರಸ್ವತೀ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0035-0038</page>
+				<allauthors>
+					<author type="1" sal="">ಆಶ್ವಲಾಯನ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸರಸ್ವತೀ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0038-0040</page>
+				<allauthors>
+					<author type="1" sal="">ಯಾಜ್ಞವಲ್ಕ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗುರುಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0041-0042</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ದಕ್ಷಿಣಾಮೂರ್ತಿ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0043-0046</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶಂಕರಾಚಾರ್ಯ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0047-0048</page>
+				<allauthors>
+					<author type="1" sal="">ತೋಟಕಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಷಡಕ್ಷರೀ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0049-0049</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶಿವ ಪಂಚಾಕ್ಷರೀ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0050-0052</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿಶ್ವನಾಥಾಷ್ಟಕಂ</title>
+				<feature></feature>
+				<page>0051-0052</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶಿವ ಪಂಚಾಕ್ಷರೀ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0053-0053</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೃತ್ಯುಂಜಯ ಮಾನಸ ಪೂಜಾ</title>
+				<feature></feature>
+				<page>0054-0054</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ದ್ವಾದಶ ಜ್ಯೋತಿರ್ಲಿಂಗ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0055-0058</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದ್ವಾದಶ ಜ್ಯೋತಿರ್ಲಿಂಗ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0058-0058</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶಿವ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0059-0061</page>
+				<allauthors>
+					<author type="1" sal="">ಮಾರ್ಕಂಡೇಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮೃತ್ಯುಂಜಯ ಸ್ತೋತ್ರ</title>
+				<feature></feature>
+				<page>0061-0061</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಬಿಲ್ವಾಷ್ಟಕ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0062-0062</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಚಂದ್ರಶೇಖರಾಷ್ಟಕಂ</title>
+				<feature></feature>
+				<page>0063-0064</page>
+				<allauthors>
+					<author type="1" sal="">ಮಾರ್ಕಂಡೇಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದಾರಿದ್ರ್ಯ ದಹನ ಸ್ತೋತ್ರ</title>
+				<feature></feature>
+				<page>0065-0066</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶಿವ ಪಂಚಾಕ್ಷರೀ ಸ್ತೋತ್ರ</title>
+				<feature></feature>
+				<page>0067-0067</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀಗುರುಜ್ಞಾನವಸಿಷ್ಠ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅಷ್ಟಮೂರ್ತಿ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0068-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶಿವಾಪರಾಧ ಕ್ಷಮಾಪಣ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0069-0072</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವೇದಸಾರ ಶಿವ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0073-0075</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶಿವನಾಮಾವಲ್ಯಷ್ಟಕ</title>
+				<feature></feature>
+				<page>0076-0077</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಕಾಲಭೈರವಾಷ್ಟಕಂ</title>
+				<feature></feature>
+				<page>0078-0079</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ನಂದೀ ಶ್ಲೋಕಗಳು</title>
+				<feature></feature>
+				<page>0080-0080</page>
+				<allauthors>
+					<author type="1" sal="">ಕಾಳಿದಾಸ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಲಿಂಗಾಷ್ಟಕಂ</title>
+				<feature></feature>
+				<page>0081-0081</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶಿವಮಹಿಮ್ನಃ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0082-0090</page>
+				<allauthors>
+					<author type="1" sal="">ಪುಷ್ಪ ದಂತ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸದಾಶಿವ ಪಂಚರತ್ನಂ</title>
+				<feature></feature>
+				<page>0090-0090</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಷ್ಟಮೂರ್ತ್ಯಷ್ಟಕ</title>
+				<feature></feature>
+				<page>0091-0092</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶಿವಶಂಕರಾಷ್ಟಕ</title>
+				<feature></feature>
+				<page>0093-0094</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮಾರ್ಕಂಡೇಯ ಶಿವಾಷ್ಟಕಂ</title>
+				<feature></feature>
+				<page>0095-0096</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಕಾಶ್ಯಷ್ಟಕಂ</title>
+				<feature></feature>
+				<page>0096-0097</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ನೀಲಕಂಠ ಮಹೀಂದ್ರ ವಿರಚಿತ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0097-0097</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ರಾವಣ ಕೃತ ಶಿವತಾಂಡವ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0097-0097</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯಾಷ್ಟೋತ್ತರ ಸ್ತೋತ್ರ</title>
+				<feature></feature>
+				<page>0098-0100</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಆಮ್ನಾಯ ಸ್ತೋತ್ರ</title>
+				<feature></feature>
+				<page>0101-0103</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶಿವ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0104-0105</page>
+				<allauthors>
+					<author type="1" sal="">ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದೇವೀ ಸೂಕ್ತಂ</title>
+				<feature></feature>
+				<page>0106-0106</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ಯಾಮಲಾನವರತ್ನಮಾಲಿಕಾ</title>
+				<feature></feature>
+				<page>0107-0107</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ಯಾಮಲಾ ದಂಡಕಂ</title>
+				<feature></feature>
+				<page>0108-0112</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭವಾನೀಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0113-0115</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗೌರೀದಶಕಂ</title>
+				<feature></feature>
+				<page>0116-0117</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ತ್ರಿಪುರಸುಂದರ್ಯಾಷ್ಟಕಂ</title>
+				<feature></feature>
+				<page>0118-0119</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ದೇವ್ಯಪರಾಧ ಕ್ಷಮಾಪಣ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0120-0122</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅನ್ನಪೂರ್ಣಾ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0123-0124</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಜಗದ್ಧಾತ್ರೀ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0125-0125</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮೀನಾಕ್ಷೀ ಪಂಚರತ್ನ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0126-0126</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜ್ಞಾನ ಪ್ರಸೂನಾಂಬಾ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0127-0128</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ದೇವೀಸ್ತುತಿ</title>
+				<feature></feature>
+				<page>0129-0140</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವಿಷ್ಣು ಷಟ್ಪದೀ</title>
+				<feature></feature>
+				<page>0141-0141</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಹರಿಶರಣಾಷ್ಟಕಂ</title>
+				<feature></feature>
+				<page>0142-0143</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0143-0146</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಲಕ್ಷ್ಮೀನೃಸಿಂಹ ಪಂಚರತ್ನ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0146-0147</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀಶಂಕರಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿಷ್ಣು ಸ್ತೋತ್ರ</title>
+				<feature></feature>
+				<page>0147-0149</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ದಶವತಾರ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0150-0151</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಗೋಪಾಲಷ್ಟಕಂ</title>
+				<feature></feature>
+				<page>0151-0152</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀವಲ್ಲಭಭಾವಷ್ಟಕಂ</title>
+				<feature></feature>
+				<page>0153-0154</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಆರ್ತತ್ರಾಣಪರಾಯಣಾಷ್ಟಕ</title>
+				<feature></feature>
+				<page>0154-0155</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀ ದೇಶಿಕಾಚಾರ್ಯ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬಾಲಮುಕುಂದಾಷ್ಟಕ</title>
+				<feature></feature>
+				<page>0156-0157</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಕೃಷ್ಣ ಸ್ತವ</title>
+				<feature></feature>
+				<page>0158-0160</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ರಾಮ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0161-0161</page>
+				<allauthors>
+					<author type="1" sal="">ವೇದವ್ಯಾಸ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸೀತಾ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0162-0162</page>
+				<allauthors>
+					<author type="1" sal="">ವೇದವ್ಯಾಸ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ರಾಮಸ್ತವ</title>
+				<feature></feature>
+				<page>0163-0164</page>
+				<allauthors>
+					<author type="1" sal="">ಬ್ರಹ್ಮ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀರಾಮ ಸ್ತುತಿ</title>
+				<feature></feature>
+				<page>0164-0165</page>
+				<allauthors>
+					<author type="1" sal="">ಯೋಗವಾಸಿಷ್ಠ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀರಾಮ ಸ್ತೋತ್ರಂ</title>
+				<feature></feature>
+				<page>0165-0165</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀರಾಮಚಂದ್ರಸ್ತವ</title>
+				<feature></feature>
+				<page>0166-0168</page>
+				<allauthors>
+					<author type="1" sal="">ತುಲಸೀದಾಸರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀರಾಮಸ್ತವ</title>
+				<feature></feature>
+				<page>0168-0169</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀರಾಮ ಮಂಗಳಮ್</title>
+				<feature></feature>
+				<page>0170-0171</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪ್ರತಿಮಾಶಿಲ್ಪದ ರಾಮಮೂರ್ತಿ</title>
+				<feature></feature>
+				<page>0172-0174</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗೀತಾಗೋವಿಂದ</title>
+				<feature></feature>
+				<page>0175-0176</page>
+				<allauthors>
+					<author type="1" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಕೃಷ್ಣಲೀಲಾಮೃತ</title>
+				<feature></feature>
+				<page>0177-0184</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮುಕುಂದಮಾಲಾ</title>
+				<feature></feature>
+				<page>0185-0186</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸ್ತೋತ್ರರತ್ನ</title>
+				<feature></feature>
+				<page>0187-0189</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗದ್ಯಶ್ರಯಮ್</title>
+				<feature></feature>
+				<page>0190-0190</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀ ರಾಮಾನುಜಾಚಾರ್ಯರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ದ್ವಾದಶಸ್ತೋತ್ರ</title>
+				<feature></feature>
+				<page>0191-0192</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಸಂಕ್ಷೇಪರಾಮಾಯಣ</title>
+				<feature></feature>
+				<page>0193-0206</page>
+				<allauthors>
+					<author type="1" sal="">ಶ್ರೀ ವಾಲ್ಮೀಕಿ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಗಾಯಿತ್ರೀ ರಾಮಾಯಣಂ</title>
+				<feature></feature>
+				<page>0207-0210</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಆದಿತ್ಯ ಹೃದಯಂ</title>
+				<feature></feature>
+				<page>0210-0222</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವೇದಾಂತ ಸ್ತೋತ್ರಾಣಿ</title>
+				<feature></feature>
+				<page>0223-0245</page>
+				<allauthors />
+			</entry>
+		</part>
 	</volume>
 </hckbhatta>
 

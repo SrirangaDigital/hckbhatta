@@ -5,6 +5,7 @@
 		<div class="col-md-12 gapAboveLarge">	
 			<h1 style="font-size: 30px; color: #0C1D67;"> <b>Note Books</b></h1><br />
 			<ul style="list-style-type:disc;">
+				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=112&part=01">ಸ್ತೋತ್ರ ಮಾಲಾ </a></li> <br />
 				<li> Philosophes - Vol 3 </li> <br />
 				<li> Rigveda Samthta Vol 2 </li> <br />
 				<li> ಶ್ರೀಮದ್ರಾಮಾಯಣ- ಬಾಲಕಂಡ ಮತ್ತು ಅಯೋಧ್ಯಾಕಾಂಡ </li> <br />
