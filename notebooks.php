@@ -3,7 +3,7 @@
 <div class="container mt-5">
 	<div class="row">
 		<div class="col-md-12 gapAboveLarge">	
-			<h1 style="font-size: 30px; color: #0C1D67;"> <b>Note Books</b></h1><br />
+			<h1 style="font-size: 30px; color: #0C1D67;"> <b>Note Books <span  style="font-size: 20px;"> ( Hand Written )</span></b></h1><br />
 			<ul style="list-style-type:disc;">
 				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=112&part=01">ಸ್ತೋತ್ರ ಮಾಲಾ </a></li> <br />
 				<li> Philosophes - Vol 3 </li> <br />
@@ -24,17 +24,12 @@
 				<li> ಅಭಿಜ್ಞಾನ ಶಕುಂತಲಾ Vol 2 (ಮಂಗಳ) </li> <br />
 				<li> Raghuvamsa Vol 3 (12-19) </li> <br />
 				<li> ಅಭಿಜ್ಞಾನ ಶಕುಂತಲಾ Vol 1 </li> <br />
-				
-				
-				
 				<li> ಶಿಲ್ಪ ಮತ್ತು ನಾಗರಿಕತೆ </li> <br />
-				
 				<li> ಕನ್ನಡ ಸಾಹಿತ್ಯ ದೇವರ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ದಾರಿ </li> <br />
 				<li> kannada cyclopaedia 2 </li> <br />
 				<li> kannada cyclopaedia  8 </li> <br />
 				<li> ಪ್ರಾಚೀನ ನಾಗರೀಕತೆಗಳಲ್ಲಿ ಯಂತ್ರ ಶಿಲ್ಪ </li> <br />
 				<li> University of mysore paper </li> <br />
-				
 				<li> ನೀರಾವರಿ </li> <br />
 				<li> ಜೀವನ ಪತ್ರಿಕೆ </li> <br />
 				<li> Radio Talks </li> <br />
@@ -119,6 +114,10 @@
 				<li> Miscellaneous Notes 2 </li> <br />
 			</ul>
 		</div>
+		<div class="col-md-12 gapAboveLarge">
+			
+		</div>
+
 	</div>
 </div>
 
