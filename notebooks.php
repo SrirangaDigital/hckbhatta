@@ -6,27 +6,27 @@
 			<h1 style="font-size: 30px; color: #0C1D67;"> <b>Note Books <span  style="font-size: 20px;"> ( Hand Written )</span></b></h1><br />
 			<ul style="list-style-type:disc;">
 				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=112&part=01">ಸ್ತೋತ್ರ ಮಾಲಾ </a></li> <br />
-				<li> Philosophes - Vol 3 </li> <br />
+				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=001&part=01">Philosophes - Vol 3 </a></li> <br />
 				<li> Rigveda Samthta Vol 2 </li> <br />
-				<li> ಶ್ರೀಮದ್ರಾಮಾಯಣ- ಬಾಲಕಂಡ ಮತ್ತು ಅಯೋಧ್ಯಾಕಾಂಡ </li> <br />
-				<li> ಶ್ರೀ ಶಂಂಕರಾಚಾರ್ಯರ ಭಗವದ್ಗೀತಾಭಾಷ್ಯ </li> <br />
-				<li> ಬ್ರಹ್ಮಸೂತ್ರಭಾಷ್ಯ ಸಂಪುಟ 1 </li> <br />
-				<li> ದಶೋಪನಿಷತ್ತುಗಳು ಸಂಪುಟ Vol 008 </li> <br />
-				<li> ಉಪನಿಷತ್ತುಗಳು 2 </li> <br />
+				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=003&part=01"> ಶ್ರೀಮದ್ರಾಮಾಯಣ- ಬಾಲಕಂಡ ಮತ್ತು ಅಯೋಧ್ಯಾಕಾಂಡ </a></li> <br />
+				<li> <a href="<?php echo $base_url; ?>php/toc.php?vol=004&part=01">ಶ್ರೀ ಶಂಂಕರಾಚಾರ್ಯರ ಭಗವದ್ಗೀತಾಭಾಷ್ಯ </a></li> <br />
+				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=005&part=01"> ಬ್ರಹ್ಮಸೂತ್ರಭಾಷ್ಯ ಸಂಪುಟ 1 </a></li> <br />
+				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=006&part=01"> ದಶೋಪನಿಷತ್ತುಗಳು ಸಂಪುಟ Vol 008 </a></li> <br />
+				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=007&part=01"> ಉಪನಿಷತ್ತುಗಳು 2 </a></li> <br />
 				<li> ಉಪನಿಷತ್ತುಗಳು - (ಶಂಕರಭಾಷ್ಯ ಸಮೇತ) Vol 1 </li> <br />
 				<li> ಬೃಹದಾರಣ್ಯಕೋಪನಿಷತ್ Vol 003 </li> <br />
 				<li> ಈಶೋಪನಿಷತ್ತು  Vol 001 </li> <br />
-				<li> ಐತರೇಯ ಉಪನಿಷತ್  Vol 002 </li> <br />
+				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=011&part=01"> ಐತರೇಯ ಉಪನಿಷತ್  Vol 002 </a></li> <br />
 				<li> ಕಾಳಿದಾಸನ ರಾಮಾಯಣ </li> <br />
-				<li> ರಾಮಾಯಣದಲ್ಲಿ ಆಂಜನೇಯ </li> <br />
-				<li> Upanishada Brihadaranyaka </li> <br />
-				<li> Essays on the Gita </li> <br />
-				<li> ಅಭಿಜ್ಞಾನ ಶಕುಂತಲಾ Vol 2 (ಮಂಗಳ) </li> <br />
-				<li> Raghuvamsa Vol 3 (12-19) </li> <br />
+				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=013&part=01"> ರಾಮಾಯಣದಲ್ಲಿ ಆಂಜನೇಯ </a></li> <br />
+				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=014&part=01"> Upanishada Brihadaranyaka </a></li> <br />
+				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=015&part=01"> Essays on the Gita </a></li> <br />
+				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=016&part=01"> ಅಭಿಜ್ಞಾನ ಶಕುಂತಲಾ Vol 2 (ಮಂಗಳ) </a></li> <br />
+				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=017&part=01"> Raghuvamsa Vol 3 (12-19) </a></li> <br />
 				<li> ಅಭಿಜ್ಞಾನ ಶಕುಂತಲಾ Vol 1 </li> <br />
-				<li> ಶಿಲ್ಪ ಮತ್ತು ನಾಗರಿಕತೆ </li> <br />
-				<li> ಕನ್ನಡ ಸಾಹಿತ್ಯ ದೇವರ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ದಾರಿ </li> <br />
-				<li> kannada cyclopaedia 2 </li> <br />
+				<!-- <li> ಶಿಲ್ಪ ಮತ್ತು ನಾಗರಿಕತೆ </li> <br /> -->
+				<li> <a href="<?php echo $base_url; ?>php/toc.php?vol=024&part=01">ಕನ್ನಡ ಸಾಹಿತ್ಯ ದೇವರ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ದಾರಿ </a></li> <br />
+				<li><a href="<?php echo $base_url; ?>php/toc.php?vol=025&part=01"> kannada cyclopaedia 2</a> </li> <br />
 				<li> kannada cyclopaedia  8 </li> <br />
 				<li> ಪ್ರಾಚೀನ ನಾಗರೀಕತೆಗಳಲ್ಲಿ ಯಂತ್ರ ಶಿಲ್ಪ </li> <br />
 				<li> University of mysore paper </li> <br />
@@ -52,7 +52,7 @@
 				<li> ಉಪನಿಷತ್ತುಗಳು  7 </li> <br />
 				<li> ಉಪನಿಷತ್ತುಗಳು  2 </li> <br />
 				<li> ಉಪನಿಷತ್ತುಗಳು  3 </li> <br />
-				<li> ಶ್ರೀ ಮದ್ಭಾಗವತ </li> <br />
+				<li> <a href="<?php echo $base_url; ?>php/toc.php?vol=052&part=01">ಶ್ರೀ ಮದ್ಭಾಗವತ </a></li> <br />
 				<li> ವೇದ </li> <br />
 				<li> Rigveda Samthta  part 1 </li> <br />
 				<li> ಭಗವದ್ಗೀತಾ part 4 </li> <br />
@@ -73,7 +73,7 @@
 				<li> ಗೀತೋಪದೇಶ-DVG </li> <br />
 				<li> ಉಪನಿಷತ್ತುಗಳು  1-8 </li> <br />
 				<li> ಉಪನಿಷದ್ಭಾಷ್ಯ 7 </li> <br />
-				<li> ಶ್ರೀ ಭಗವದ್ಗೀತಾ 4 - DVG </li> <br />
+				<li> <a href="<?php echo $base_url; ?>php/toc.php?vol=073&part=01">ಶ್ರೀ ಭಗವದ್ಗೀತಾ 4 - DVG </a></li> <br />
 				<li> ಗೀತಪ್ರವಚನ & ವಿನೋಬಾಭಾವೆ </li> <br />
 				<li> ಭಗವದ್ಗೀತಾಭಾಷ್ಯ - ಶಂಕರಭಾಷ್ಯ 1 to 9 </li> <br />
 				<li> ಭಗವದ್ಗೀತಾಭಾಷ್ಯ - ಶಂಕರಭಾಷ್ಯ 10 to 18 </li> <br />

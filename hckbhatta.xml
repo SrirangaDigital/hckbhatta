@@ -2,6 +2,474 @@
 <!DOCTYPE hckbhatta SYSTEM "shankara_krupa.dtd">
 
 <hckbhatta>
+	<volume vnum="001">
+		<part pnum="01" title="Notes in English : Vol iii" month="" year="" maasa="" samvatsara="">
+			<entry>
+				<title>Living Biographies : Great Philosophers</title>
+				<feature></feature>
+				<page>0003-0074</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Ten Greatest Thinkers</title>
+				<feature></feature>
+				<page>0075-0082</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Ten Greatest Poets</title>
+				<feature></feature>
+				<page>0083-0089</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="003">
+		<part pnum="01" title="ಶ್ರೀಮದ್ರಾಮಾಯಣ" month="" year="" maasa="" samvatsara="">
+			<entry>
+				<title>ಬಾಲಕಾಂಡ</title>
+				<feature></feature>
+				<page>0015-0032</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಯೋಧ್ಯಾಕಾಂಡ</title>
+				<feature></feature>
+				<page>0033-0056</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="004">
+		<part pnum="01" title="ಭಗವದ್ಗೀತಾ ಶಾಂಕರ ಭಾಷ್ಯ " month="" year="" maasa="" samvatsara="">
+			<entry>
+				<title>ಶ್ರೀ ಶಂಕರಾಚಾರ್ಯರ ಶ್ರೀ ಭಗವದ್ಗೀತಾ ಭಾಷ್ಯ - ಪೀಠಿಕೆ</title>
+				<feature></feature>
+				<page>0004-0005</page>
+				<allauthors>
+					<author type="1">ಎಚ್. ಸಿ. ಕಪಿನೀಪತಿಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅರ್ಜುನ ವಿಷಾಧ</title>
+				<feature>ಅಧ್ಯಾಯ-೧</feature>
+				<page>0006-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸಾಂಖ್ಯಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೨</feature>
+				<page>0006-0026</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಕರ್ಮಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೩</feature>
+				<page>0027-0036</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಜ್ಞಾನ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೪</feature>
+				<page>0037-0050</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸನ್ಯಾಸ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೫</feature>
+				<page>0051-0061</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಧ್ಯಾನ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೬</feature>
+				<page>0062-0074</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಜ್ಞಾನ ವಿಜ್ಞಾನ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೭</feature>
+				<page>0075-0081</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಕ್ಷರ ಬ್ರಹ್ಮ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೮</feature>
+				<page>0082-0089</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ರಾಜವಿದ್ಯಾರಾಜಗುಹ್ಯ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೯</feature>
+				<page>0090-0098</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವಿಭೂತಿ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೧೦</feature>
+				<page>0099-0104</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವಿಶ್ವರೂಪದರ್ಶನ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೧೧</feature>
+				<page>0105-0113</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭಕ್ತಿ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೧೨</feature>
+				<page>0114-0119</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಕ್ಷೇತ್ರ ಕ್ಷೇತ್ರಜ್ಞ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೧೩</feature>
+				<page>0120-0136</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗುಣ ತ್ರಯ ವಿಭಾಗ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೧೪</feature>
+				<page>0137-0142</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪುರುಷೋತ್ತಮ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೧೫</feature>
+				<page>0143-0147</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ದೈವಾಸುರ ಸಂಪದ್ವಿಭಾಗ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೧೬</feature>
+				<page>0147-0150</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರದ್ಧಾ ತ್ರಯ ವಿಭಾಗ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೧೭</feature>
+				<page>0151-0155</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮೋಕ್ಷ ಸನ್ಯಾಸ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ-೧೮</feature>
+				<page>0156-0176</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="005">
+		<part pnum="01" title="ಬ್ರಹ್ಮಸೂತ್ರ ಭಾಷ್ಯ" month="09" year="1966" maasa="" samvatsara="">
+			<entry>
+				<title>ಬ್ರಹ್ಮಸೂತ್ರ ಭಾಷ್ಯ ಸಂಪುಟ-೨ - ಪೀಠಿಕೆ</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors>
+					<author type="1">ಎಚ್. ಸಿ. ಕಪಿನೀಪತಿಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಬ್ರಹ್ಮಸೂತ್ರಗಳು - ಶಾಂಕರಭಾಷ್ಯ</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಭ್ಯಾಸ</title>
+				<feature></feature>
+				<page>0006-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೧</title>
+				<feature></feature>
+				<page>0008-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯ್ಯಾಯ - ೨</title>
+				<feature></feature>
+				<page>0081-0131</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೩</title>
+				<feature></feature>
+				<page>0132-0137</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="006">
+		<part pnum="01" title="ಶಾಂಕರಭಾಷ್ಯ ಸಮೇತ ಬೃಹದಾರಣ್ಯಕೋಪನಿಷತ್" month="" year="" maasa="" samvatsara="">
+			<entry>
+				<title>ಬೃಹದಾರಣ್ಯಕ ಭಾಷ್ಯ</title>
+				<feature></feature>
+				<page>0002-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಬೃಹದಾರಣ್ಯಕೋಪನಿಷತ್ - ಭಾಷ್ಯಕಾರರ ಅವತರಣಿಕೆ</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೧</title>
+				<feature></feature>
+				<page>0008-0058</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೨</title>
+				<feature></feature>
+				<page>0059-0118</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಮುನಿಕಾಂಡ (ಪೀಠಿಕೆ)- ಮೂರನೆಯ ಅಧ್ಯಾಯ</title>
+				<feature></feature>
+				<page>0119-0125</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೩</title>
+				<feature></feature>
+				<page>0126-0182</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೪</title>
+				<feature></feature>
+				<page>0183-0266</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೫</title>
+				<feature></feature>
+				<page>0267-0293</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೬</title>
+				<feature></feature>
+				<page>0294-0328</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="007">
+		<part pnum="01" title="ಛಾಂದೋಗ್ಯೋಪನಿಷತ್ತು" month="" year="" maasa="" samvatsara="">
+			<entry>
+				<title>ಶ್ರೀ ಶಾಂಕರ ಭಾಷ್ಯ ಸಮೇತ ಛಾಂದೋಗ್ಯೋಪನಿಷತ್ತು - ಪೀಠಿಕೆ</title>
+				<feature></feature>
+				<page>0002-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭಾಷ್ಯಕಾರರ ಅವತರಣಿಕೆ</title>
+				<feature></feature>
+				<page>0010-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೧</title>
+				<feature></feature>
+				<page>0011-0039</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೨ (ಸಮಸ್ತ ಸಾಮದ ಉಪಾಸನೆ)</title>
+				<feature></feature>
+				<page>0040-0061</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಪರಿಶಿಷ್ಟ</title>
+				<feature></feature>
+				<page>0062-0066</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೩ (ಕರ್ಮಫಲನಾದ ಆದಿತ್ಯೋಪಾಸನೆ)</title>
+				<feature></feature>
+				<page>0067-0090</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೪ (ಸಂವರ್ಗ ವಿದ್ಯೆ)</title>
+				<feature></feature>
+				<page>0091-0112</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೫ (ಪ್ರಾಣ ವಿದ್ಯೆ)</title>
+				<feature></feature>
+				<page>0113-0140</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೬ (ಆತ್ಮೈಕತ್ತ್ವ ಜ್ಞಾನ)</title>
+				<feature></feature>
+				<page>0141-0174</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೭ (ಭೂಮ ವಿದ್ಯೆ)</title>
+				<feature></feature>
+				<page>0175-0199</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೮ (ದಹರ ವಿದ್ಯೆ)</title>
+				<feature></feature>
+				<page>0200-0236</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="011">
+		<part pnum="01" title="ಐತರೇಯ, ತೈತ್ತಿರಿಯ ಮತ್ತು ಛಾಂದೋಗ್ಯ ಉಪನಿಷತ್" month="" year="" maasa="" samvatsara="">
+			<entry>
+				<title>ಐತರೇಯ ಉಪನಿಷತ್</title>
+				<feature></feature>
+				<page>0003-0025</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ತೈತ್ತಿರಿಯ ಉಪನಿಷತ್</title>
+				<feature></feature>
+				<page>0026-0075</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಛಾಂದೋಗ್ಯ ಉಪನಿಷತ್</title>
+				<feature></feature>
+				<page>0076-0262</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="013">
+		<part pnum="01" title="ವಾಸ್ತು ಶಿಲ್ಪ ಮತ್ತು ಮೂರ್ತಿಶಿಲ್ಪ" month="" year="" maasa="" samvatsara="">
+			<entry>
+				<title>ರಾಮಾಯಣದಲ್ಲಿ ಆಂಜನೇಯ</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವಾಸ್ತು ಶಿಲ್ಪ ಮತ್ತು ಮೂರ್ತಿಶಿಲ್ಪ</title>
+				<feature></feature>
+				<page>0007-0018</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="014">
+		<part pnum="01" title="ಬೃಹದಾರಣ್ಯಕ ಉಪನಿಷತ್" month="10" year="1956" maasa="" samvatsara="">
+			<entry>
+				<title>ಬೃಹದಾರಣ್ಯಕೋಪನಿಷತ್</title>
+				<feature></feature>
+				<page>0003-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೧</title>
+				<feature></feature>
+				<page>0006-0085</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಧ್ಯಾಯ - ೨</title>
+				<feature></feature>
+				<page>0087-0153</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="015">
+		<part pnum="01" title="Aurobindo : Essays on the Gita" month="08" year="1958" maasa="" samvatsara="">
+			<entry>
+				<title>Aurobindo : Essays on the Gita - First Series</title>
+				<feature></feature>
+				<page>0001-0078</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Second Series</title>
+				<feature></feature>
+				<page>0079-0178</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="016">
+		<part pnum="01" title="ಅಭಿಜ್ಞಾನ ಶಾಕುಂತಲ" month="" year="" maasa="" samvatsara="">
+			<entry>
+				<title>ಅಭಿಜ್ಞಾನ ಶಾಕುಂತಲ</title>
+				<feature></feature>
+				<page>0003-0021</page>
+				<allauthors>
+					<author type="1">ಎಚ್. ಸಿ. ಕಪಿನೀಪತಿಭಟ್ಟ</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="017">
+		<part pnum="01" title="ರಘುವಂಶ" month="" year="" maasa="" samvatsara="">
+			<entry>
+				<title>ಹನ್ನೆರಡನೆಯ ಸರ್ಗ</title>
+				<feature></feature>
+				<page>0002-0032</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಹದಿಮೂರನೆಯ ಸರ್ಗ</title>
+				<feature></feature>
+				<page>0033-0066</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಹದಿನಾಲ್ಕನೆಯ ಸರ್ಗ</title>
+				<feature></feature>
+				<page>0067-0098</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಹದಿನೈದನೆಯ ಸರ್ಗ</title>
+				<feature></feature>
+				<page>0099-0129</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಹದಿನಾರನೆಯ ಸರ್ಗ</title>
+				<feature></feature>
+				<page>0130-0154</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಹದಿನೇಳನೆಯ ಸರ್ಗ</title>
+				<feature></feature>
+				<page>0155-0172</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಹದಿನೆಂಟನೆಯ ಸರ್ಗ</title>
+				<feature></feature>
+				<page>0173-0181</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಹತ್ತೊಂಬತ್ತನೆಯ ಸರ್ಗ</title>
+				<feature></feature>
+				<page>0182-0198</page>
+				<allauthors />
+			</entry>
+		</part>
+	 </volume>
 	<volume vnum="019">
 		<part pnum="01" title="ಹೊಸಕೆರೆ ಕಪಿನೀಪತಿ ಭಟ್ಟರು" month="09" year="2010" maasa="" samvatsara="">
 			<entry>
@@ -356,7 +824,6 @@
 			</entry>
 	    </part>
 	</volume>
-
 	<volume vnum="022">
 		<part pnum="01" title="ಶಿಲ್ಪ ಮತ್ತು ನಾಗರಿಕತೆ" month="" year="" maasa="" samvatsara="">
 			<entry>
@@ -397,8 +864,6 @@
 			</entry>
 		</part>
 	</volume>
-
-
 	<volume vnum="023">
 		<part pnum="01" title="ನನ್ನ ಉದ್ಯೋಗ ಜೀವನದ ಸೂಕ್ಷ್ಮ ಪರಿಚಯ" month="" year="" maasa="" samvatsara="">
 			<entry>
@@ -535,6 +1000,266 @@
 			</entry>
 	   </part>
 	</volume>
+	<volume vnum="024">
+		<part pnum="01" title="ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ದೇವರ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ದಾರಿ" month="03" year="1961" maasa="" samvatsara="">
+			<entry>
+				<title>ದಾರ್ಶನಿಕ ಪೀಠಿಕೆ</title>
+				<feature>ಒಂದನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0004-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಆಧ್ಯಾತ್ಮಿಕ ಜೀವನದ ಪ್ರೇರಣ ಶಕ್ತಿಗಳು</title>
+				<feature>ಎರಡನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0011-0023</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಇನ್ನೂ ಕೆಲವು ಪ್ರೇರಕ ಶಕ್ತಿಗಳು ಅವುಗಳ ಪರಿಪೂರ್ಣತ್ವ</title>
+				<feature>ಮೂರನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0024-0032</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಯೋಗಿಯ ಜೀವನಕ್ಕೆ ನೈತಿಕ ಸಿದ್ಧತೆ</title>
+				<feature>ನಾಲ್ಕನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0033-0039</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗುರುವಿನ ಸ್ವಭಾವ</title>
+				<feature>ಐದನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0040-0046</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗುರುವಿನ ಧರ್ಮ</title>
+				<feature>ಆರನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0047-0055</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗುರು ಶಿಷ್ಯ ಸಂಬಂಧ - ಮೊದಲನೆಯ ಭಾಗ</title>
+				<feature>ಏಳನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0056-0061</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಗುರು ಶಿಷ್ಯ ಸಂಬಂಧ - ಎರಡನೆಯ ಭಾಗ</title>
+				<feature>ಎಂಟನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0062-0070</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭಕ್ತರ ಗುಣಗಳು</title>
+				<feature>ಒಂಬತ್ತನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0071-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭಕ್ತ - ದೇವ ಇವರ ಸಂಬಂಧ</title>
+				<feature>ಹತ್ತನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0077-0082</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ದೇವನ ಸ್ವಭಾವ</title>
+				<feature>ಹನ್ನೊಂದನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0083-0089</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭಗವನ್ನಾಮ - ಒಂದನೆಯ ಭಾಗ</title>
+				<feature>ಹನ್ನೆರಡನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0090-0094</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭಗವನ್ನಾಮ - ಎರಡನೆಯ ಭಾಗ</title>
+				<feature>ಹದಿಮೂರನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0095-0102</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಧ್ಯಾನ ವಿಧಾನ</title>
+				<feature>ಹದಿನಾಲ್ಕನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0103-0111</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಆಧ್ಯಾತ್ಮಿಕ ಅನುಭವಗಳ ಪ್ರಮಾಣ ಮತ್ತು ಮೂಲ</title>
+				<feature>ಹದಿನೈದನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0112-0120</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ರೂಪ, ಬೆಳಕು ಮತ್ತು ಧ್ವನಿಯ ಅನುಭವಗಳು</title>
+				<feature>ಹದಿನಾರನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0121-0126</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಒಟ್ಟುಗೂಡುವ ಆಧ್ಯಾತ್ಮಿಕ ಅನುಭವ</title>
+				<feature>ಹದಿನೇಳನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0127-0133</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸ್ವರ್ಗೀಯ ಅನುಭವ</title>
+				<feature>ಹದಿನೆಂಟನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0134-0141</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭಗವತ್ಸಾಕ್ಷಾತ್ಕಾರದ ಫಲಗಳು - ಮೊದಲನೆಯ ಭಾಗ</title>
+				<feature>ಹತ್ತೊಂಬತ್ತನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0142-0153</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭಗವತ್ಸಾಕ್ಷಾತ್ಕಾರದ ಫಲಗಳು - ಎರಡನೆಯ ಭಾಗ</title>
+				<feature>ಇಪ್ಪತ್ತನೆಯ ಅಧ್ಯಾಯ</feature>
+				<page>0154-0165</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="025">
+		<part pnum="01" title="ಕನ್ನಡ ವಿಶ್ವಕೋಶ" month="06" year="1967" maasa="" samvatsara="">
+			<entry>
+				<title>Floods - ಪ್ರವಾಹಗಳು</title>
+				<feature></feature>
+				<page>0017-0021</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಫೆರೋ ಕಾಂಕ್ರೀಟ್</title>
+				<feature></feature>
+				<page>0021-0021</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ದತ್ತಿಯ ಸಂಸ್ಥೆ</title>
+				<feature></feature>
+				<page>0022-0022</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Flume - ನಾಲೆ</title>
+				<feature></feature>
+				<page>0022-0022</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Groyne - ಅಡ್ಡಕಟ್ಟು</title>
+				<feature></feature>
+				<page>0023-0023</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಬೆಂಕಿಯಲ್ಲಿ ಸುಡದ ಕಟ್ಟಡ - Fireproof Construction</title>
+				<feature></feature>
+				<page>0024-0027</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಒಣಕಟ್ಟೆ - Graving dock</title>
+				<feature></feature>
+				<page>0028-0028</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಉಪಕರಣ - Tool</title>
+				<feature></feature>
+				<page>0029-0041</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವಾಯುದಳ - Air Force</title>
+				<feature></feature>
+				<page>0042-0045</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಲಂಗರು - Anchor</title>
+				<feature></feature>
+				<page>0046-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಜಲಾನಯನ ಭೂಮಿಗಳು - Catchment areas</title>
+				<feature></feature>
+				<page>0048-0049</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>(ನಾಲೆ) ಕಾಲುವೆ - Channel, Flume</title>
+				<feature></feature>
+				<page>0050-0050</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ನೆಲಹಾಸು - Apron</title>
+				<feature></feature>
+				<page>0051-0051</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಆಸರೆಗೋಡೆ, ತಡೆಗೋಡೆ - Retaining Wall</title>
+				<feature></feature>
+				<page>0052-0052</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಣೆಕಟ್ಟು - Weir</title>
+				<feature></feature>
+				<page>0053-0057</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಡ್ಡಕಟ್ಟು - Barrage (Sukkur Barrage)</title>
+				<feature></feature>
+				<page>0058-0059</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಕರ್ಷಕ - Tractor</title>
+				<feature></feature>
+				<page>0060-0061</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಹೆಂಚು - Tile</title>
+				<feature></feature>
+				<page>0062-0067</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವಿಸ್ಫೋಟನ - Blasting (ಸಿಡಿಮದ್ದಿನ ಕೆಲಸ)</title>
+				<feature></feature>
+				<page>0068-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಹೆಂಚು - Tile</title>
+				<feature></feature>
+				<page>0073-0074</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Timber - ನಾಟ</title>
+				<feature></feature>
+				<page>0075-0075</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಕೋಟೆ</title>
+				<feature></feature>
+				<page>0075-0079</page>
+				<allauthors />
+			</entry>
+		</part>
+	 </volume>
 	<volume vnum="029">
 		<part pnum="01" title="ನನ್ನ ಉದ್ಯೋಗ ಜೀವನದ ಚರಿತ್ರೆ" month="" year="" maasa="" samvatsara="">
 			<entry>
@@ -720,6 +1445,152 @@
 				<allauthors />
 			</entry>
 	    </part>
+	</volume>
+	<volume vnum="073">
+		<part pnum="01" title="ಶ್ರೀ ಭಗವದ್ಗೀತಾ" month="07" year="1961" maasa="" samvatsara="">
+			<entry>
+				<title>ಶ್ರೀ ಭಗವದ್ಗೀತಾ</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅರ್ಜುನನ ವಿಷಾದ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ - ೧</feature>
+				<page>0002-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಸಾಂಖ್ಯಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ - ೨</feature>
+				<page>0003-0028</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಕರ್ಮಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ - ೩</feature>
+				<page>0029-0038</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಜ್ಞಾನಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ - ೪</feature>
+				<page>0039-0049</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಕರ್ಮ ಸನ್ಯಾಸ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ - ೫</feature>
+				<page>0050-0056</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಧ್ಯಾನಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ - ೬</feature>
+				<page>0057-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಜ್ಞಾನವಿಜ್ಞಾನಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ - ೭</feature>
+				<page>0069-0079</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಅಕ್ಷರಬ್ರಹ್ಮಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ - ೮</feature>
+				<page>0080-0090</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ರಾಜವಿದ್ಯಾರಾಜಗುಹ್ಯ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ - ೯</feature>
+				<page>0091-0104</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವಿಭೂತಿ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ - ೧೦</feature>
+				<page>0105-0125</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ವಿಶ್ವರೂಪ ದರ್ಶನ</title>
+				<feature>ಅಧ್ಯಾಯ - ೧೧</feature>
+				<page>0126-0136</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಭಕ್ತಿ ಯೋಗ</title>
+				<feature>ಅಧ್ಯಾಯ - ೧೨</feature>
+				<page>0137-0150</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="052">
+		<part pnum="01" title="ಶ್ರೀಮದ್ಭಾಗವತ" month="11" year="1967" maasa="" samvatsara="">
+			<entry>
+				<title>ಶ್ರೀಮದ್ಭಾಗವತ ಮಾಹಾತ್ಮ್ಯಮ್</title>
+				<feature>ಅಧ್ಯಾಯ - ೧</feature>
+				<page>0002-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮದ್ಭಾಗವತ ಮಾಹಾತ್ಮ್ಯಮ್</title>
+				<feature>ಅಧ್ಯಾಯ - ೨</feature>
+				<page>0003-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮದ್ಭಾಗವತ ಮಾಹಾತ್ಮ್ಯಮ್</title>
+				<feature>ಅಧ್ಯಾಯ - ೩</feature>
+				<page>0003-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮದ್ಭಾಗವತ ಮಾಹಾತ್ಮ್ಯಮ್</title>
+				<feature>ಅಧ್ಯಾಯ - ೪</feature>
+				<page>0003-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮದ್ಭಾಗವತ ಮಾಹಾತ್ಮ್ಯಮ್</title>
+				<feature>ಅಧ್ಯಾಯ - ೫</feature>
+				<page>0004-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮದ್ಭಾಗವತ ಮಾಹಾತ್ಮ್ಯಮ್</title>
+				<feature>ಅಧ್ಯಾಯ - ೬</feature>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮದ್ಭಾಗವತ ಮಹಾಪುರಾಣಮ್</title>
+				<feature>ಪ್ರಥಮಃ ಸ್ಕಂಧಃ</feature>
+				<page>0006-0027</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮದ್ಭಾಗವತ ಮಹಾಪುರಾಣಮ್</title>
+				<feature>ದ್ವಿತೀಯಃ ಸ್ಕಂಧಃ</feature>
+				<page>0028-0039</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮದ್ಭಾಗವತ ಮಹಾಪುರಾಣಮ್</title>
+				<feature>ತೃತೀಯಃ ಸ್ಕಂಧಃ</feature>
+				<page>0040-0082</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀಮದ್ಭಾಗವತ ಮಹಾಪುರಾಣಮ್</title>
+				<feature>ಚತುರ್ಥಃ ಸ್ಕಂಧಃ</feature>
+				<page>0083-0110</page>
+				<allauthors />
+			</entry>
+		</part>
 	</volume>
 	<volume vnum="112">
 		<part pnum="01" title="ಸ್ತೋತ್ರ" month="11" year="1964" maasa="" samvatsara="">
